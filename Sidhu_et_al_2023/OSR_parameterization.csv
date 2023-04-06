@@ -1,0 +1,5 @@
+ACCESSION,Phenotype,TREATMENT,SEM_RN_mean,N1_RN_mean,N2_RN_mean,N3_RN_mean,N4_RN_mean,N5_RN_mean,N6_RN_mean,SEM_Angle_mean,N1_Angle_mean,N2_Angle_mean,N3_Angle_mean,N4_Angle_mean,N5_Angle_mean,N6_Angle_mean,Aper,Nitrogen_treatment,Tag,density,respiration,Optimal_N,Min_N,Optimal_P,Min_P,Pho_treatment,Diameter_scaling
+CWT_high,NA,HN,5,3,4,5,6,14,20,90,160,150,140,130,130,140,0,12,P1,0.159287759,0.010887662,1470.724744,600,60,30,6,1
+CWT_low,NA,HN,5,3,4,5,6,14,20,90,160,150,140,130,130,140,0,12,P1,0.09,0.0298633,3822.456447,600,60,30,6,1
+CWT_high,NA,LN7,5,3,4,5,6,14,20,90,160,150,140,130,130,140,0,0.64,P1,0.159287759,0.010887662,1470.724744,600,60,30,6,1
+CWT_low,NA,LN7,5,3,4,5,6,14,20,90,160,150,140,130,130,140,0,0.64,P1,0.09,0.0298633,3822.456447,600,60,30,6,1
